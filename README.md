@@ -11,7 +11,7 @@ The TNDC Framework is illustrated below:
 ### TNDC Technique
 The TNDC technique 
 
-<img src="https://github.com/TNDC-Calibration/main/blob/main/TNDC-Technique.png" alt="TNDC Technique" width="750"/>
+<img src="https://github.com/TNDC-Calibration/main/blob/main/TNDC-Technique.png" alt="TNDC Technique" width="500"/>
 
 ## Files
 - [DOEE-EnergyPlus V0.1.1.idf](/DOEE-EnergyPlus%20V0.1.1.idf): EnergyPlus IDF file.```DOEE-BMS```
