@@ -6,12 +6,12 @@ TNDC simple algorithm.ipynb
 
 The TNDC Framework is illustrated below:
 
-<img src="https://github.com/TNDC-Calibration/main/blob/main/assets/Picture3.jpg" alt="TNDC Framewoek" width="500"/>
+<img src="https://github.com/TNDC-Calibration/main/blob/main/assets/Picture3.jpg" alt="TNDC Framewoek" width="600"/>
 
 ### TNDC Technique
 The TNDC technique 
 
-<img src="https://github.com/TNDC-Calibration/main/blob/main/TNDC-Technique.png" alt="TNDC Technique" width="500"/>
+<img src="https://github.com/TNDC-Calibration/main/blob/main/TNDC-Technique.png" alt="TNDC Technique" width="600"/>
 
 ## Files
 - [DOEE-EnergyPlus V0.1.1.idf](/DOEE-EnergyPlus%20V0.1.1.idf): EnergyPlus IDF file.```DOEE-BMS```
