@@ -10,7 +10,7 @@ The TNDC Framework is illustrated below:
 
 pic = "https://github.com/TNDC-Calibration/main/blob/main/assets/Picture3.jpg"
 
-<img src=pic alt="Your image title" width="250"/>
+<img src="https://github.com/TNDC-Calibration/main/blob/main/assets/Picture3.jpg" alt="Your image title" width="250"/>
 
 ### TNDC Technique
 The TNDC technique 
