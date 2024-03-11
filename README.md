@@ -6,7 +6,7 @@ TNDC simple algorithm.ipynb
 
 The TNDC Framework is illustrated below:
 
-<img src="https://github.com/TNDC-Calibration/main/blob/main/assets/Picture3.jpg" alt="TNDC Framewoek" width="750"/>
+<img src="https://github.com/TNDC-Calibration/main/blob/main/assets/Picture3.jpg" alt="TNDC Framewoek" width="500"/>
 
 ### TNDC Technique
 The TNDC technique 
